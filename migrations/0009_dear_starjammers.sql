@@ -1,0 +1,1 @@
+ALTER TABLE "posts_table" ADD COLUMN "likes" integer DEFAULT 0 NOT NULL;

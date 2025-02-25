@@ -1,0 +1,1 @@
+ALTER TABLE "posts_table" ADD COLUMN "name" text DEFAULT 'Untitled' NOT NULL;

@@ -1,0 +1,1 @@
+ALTER TABLE "visits_table" ADD COLUMN "img_url" text DEFAULT 'google.com' NOT NULL;

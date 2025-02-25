@@ -1,0 +1,1 @@
+ALTER TABLE "visits_table" ALTER COLUMN "img_url" DROP DEFAULT;
