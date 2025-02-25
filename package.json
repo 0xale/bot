@@ -9,6 +9,9 @@
     "start:run": "nodemon ./dist/index.js",
     "start": "concurrently npm:start:*"
   },
+  "engines": {
+    "node": "22"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
